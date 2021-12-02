@@ -1,8 +1,8 @@
 # BudgetTracker
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
-##PROBLEMS
-Had trouble deploying via Heroku
+## PROBLEMS GRADERS READ
+Had trouble deploying via Heroku, There are videos of me completing the Offline part.
 
 ## User Story
 AS AN avid traveller
